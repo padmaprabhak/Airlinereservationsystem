@@ -229,8 +229,5 @@ message += "Address: " + passenger.getAddress() + "\n";
 
     public static void main(String[] args) {
         new Air();
-
-
- // Existing code for canceling reservation and viewing available seats remains the same
     }
 }
